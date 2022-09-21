@@ -1,0 +1,7 @@
+API Key (v3 auth): fac41baeeec0a2294ec08dbb2295cd2a
+
+Example API Request: https://api.themoviedb.org/3/movie/550?api_key=fac41baeeec0a2294ec08dbb2295cd2a
+
+API Read Access Token (v4 auth): eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYWM0MWJhZWVlYzBhMjI5NGVjMDhkYmIyMjk1Y2QyYSIsInN1YiI6IjYyM2FmNzk3MjExY2U1MDA1Yzk1Mjc4MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xb9W4o20T6oA8AruTQf3oTXv0JyxzhPUYFb1WX7diH4
+npm install -g firebase-tools
+npm install firebase

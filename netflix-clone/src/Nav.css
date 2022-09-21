@@ -1,0 +1,56 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+li{
+    display: inline-flex;
+}
+
+.netflix{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+    font-weight: 600;
+    
+    font-family: 'Tapestry', cursive;
+    font-size: 50px;
+    position: relative;
+    bottom: 17.5px;
+}
+
+.about{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+    font-weight: 600;
+    padding-left: 150px;
+    position: relative;
+    bottom: 25px;
+}
+
+.nav__logo{
+    position: fixed;
+    left: 20;
+    width: 80px;
+    object-fit: contain;
+}
+
+.nav__avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    object-fit: contain;
+}
+
+.nav__black{
+    background-color: #111;
+}
